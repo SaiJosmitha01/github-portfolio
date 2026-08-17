@@ -1,0 +1,92 @@
+{
+  "experience": [
+    {
+      "id": "bcbs",
+      "company": "Blue Cross Blue Shield",
+      "role": "Data Analyst",
+      "duration": "Aug 2025 - Present",
+      "project": "Healthcare Claims Analytics & Business Intelligence Platform",
+      "industry": "Healthcare",
+      "overview": "Worked as a Data Analyst supporting Medicare claims analytics, reporting automation, KPI dashboards, and business intelligence.",
+      "businessProblem": "Business teams required accurate reporting for Medicare claims, reimbursement trends, denial analysis, provider performance, and operational KPIs.",
+      "responsibilities": [
+        "Developed SQL queries across Oracle and SQL Server.",
+        "Built ETL pipelines using Azure Data Factory.",
+        "Performed data cleansing and validation.",
+        "Created Power BI dashboards.",
+        "Automated reporting.",
+        "Worked with business stakeholders."
+      ],
+      "technologies": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Oracle",
+        "SQL Server",
+        "Azure Data Factory",
+        "AWS GovCloud"
+      ],
+      "impact": [
+        "Improved reporting accuracy by 25%",
+        "Reduced manual effort by 60%",
+        "Reduced avoidable denials by 15%"
+      ]
+    },
+    {
+      "id": "hcl",
+      "company": "HCLTech",
+      "role": "Data Analyst",
+      "duration": "May 2022 - Jun 2023",
+      "project": "Enterprise Operational Analytics",
+      "industry": "Technology",
+      "overview": "Supported enterprise reporting and analytics initiatives.",
+      "businessProblem": "Business users required automated reporting and KPI visibility.",
+      "responsibilities": [
+        "Developed SQL queries.",
+        "Built Azure Data Factory pipelines.",
+        "Created Power BI dashboards.",
+        "Performed trend analysis.",
+        "Supported UAT."
+      ],
+      "technologies": [
+        "SQL",
+        "Python",
+        "Oracle",
+        "SQL Server",
+        "Power BI",
+        "Azure Data Factory"
+      ],
+      "impact": [
+        "Reduced reporting effort by 50%",
+        "Improved reporting accuracy by 20%"
+      ]
+    },
+    {
+      "id": "ncat",
+      "company": "North Carolina A&T State University",
+      "role": "Graduate Teaching Assistant",
+      "duration": "Jan 2024 - May 2025",
+      "project": "Academic Data Analytics",
+      "industry": "Education",
+      "overview": "Supported faculty through analytics and reporting.",
+      "businessProblem": "Faculty required reporting on student performance and academic outcomes.",
+      "responsibilities": [
+        "Analyzed student data.",
+        "Created reports.",
+        "Supported research.",
+        "Mentored students."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ],
+      "impact": [
+        "Improved reporting efficiency",
+        "Supported faculty decision-making"
+      ]
+    }
+  ]
+}
